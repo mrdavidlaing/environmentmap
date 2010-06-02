@@ -17,8 +17,14 @@ class MapsController < ApplicationController
 
     respond_to do |format|
       format.html # show.html.erb
-      format.xml  { render :xml => @map }
+      format.xml { render :xml => @map }
     end
+  end
+
+  # GET /maps/1/svgdata
+  def show_svgdata
+    @map = Map.find(params[:id])
+    render :xml => @map.svgdata
   end
 
   # GET /maps/new

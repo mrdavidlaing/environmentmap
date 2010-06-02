@@ -1,0 +1,203 @@
+<svg width="128" height="128" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <linearGradient id="linearGradient5048">
+   <stop stop-color="#000000" stop-opacity="0" offset="0" id="stop5050"/>
+   <stop stop-color="#000000" offset="0.5" id="stop5056"/>
+   <stop stop-color="#000000" stop-opacity="0" offset="1" id="stop5052"/>
+  </linearGradient>
+  <linearGradient id="linearGradient5060">
+   <stop stop-color="#000000" offset="0" id="stop5062"/>
+   <stop stop-color="#000000" stop-opacity="0" offset="1" id="stop5064"/>
+  </linearGradient>
+  <linearGradient gradientTransform="matrix(0.174892, 0, 0, 0.106445, 4.40385, 46.098)" xlink:href="#linearGradient5048" id="linearGradient43331" y2="10.88998" x2="3.2856" y1="10.88998" x1="3.2856"/>
+  <radialGradient gradientTransform="matrix(0.157126, 0, 0, 0.102877, -263.645, -140.727)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5060" id="radialGradient43333" fy="486.64789" fx="605.71429" r="117.14286" cy="486.64789" cx="605.71429"/>
+  <radialGradient gradientTransform="matrix(-0.157126, 0, 0, 0.102877, -150.128, -140.727)" gradientUnits="userSpaceOnUse" xlink:href="#linearGradient5060" id="radialGradient43335" fy="486.64789" fx="605.71429" r="117.14286" cy="486.64789" cx="605.71429"/>
+ </defs>
+ <g>
+  <title>Layer 1</title>
+  <g display="inline" id="layer1"/>
+  <g display="inline" id="layer2">
+   <g id="g43337">
+    <g id="g43326">
+     <rect opacity="0.40206" fill="url(#linearGradient43331)" fill-rule="nonzero" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="rect35646" y="-103.00756" x="-244.821" height="24.98429" width="75.86915"/>
+     <path opacity="0.40206" fill="url(#radialGradient43333)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path35648" d="m-168.95186,-103.00671c0,0 0,24.98291 0,24.98291c8.09157,0.04703 19.56149,-5.5974 19.56148,-12.49306c0,-6.89567 -9.02959,-12.48985 -19.56148,-12.48985z"/>
+     <path opacity="0.40206" fill="url(#radialGradient43335)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="path35650" d="m-244.821,-103.00671c0,0 0,24.98291 0,24.98291c-8.09157,0.04703 -19.56148,-5.5974 -19.56148,-12.49306c0,-6.89567 9.02959,-12.48985 19.56148,-12.48985z"/>
+    </g>
+    <rect fill="#fd3301" fill-rule="nonzero" stroke="#790009" stroke-width="3.86854" stroke-miterlimit="4" id="rect36307" y="-164.51244" x="-251.99417" height="72.44905" width="91.55863"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path39222" d="m-249.93935,-114.40444l87.66251,-0.29938"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path39224" d="m-249.93935,-102.44012l87.66251,-0.29937"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path39226" d="m-234.98805,-102.69804l-0.03531,-11.96415"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41166" d="m-206.62085,-102.69804l-0.03531,-11.96415"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41168" d="m-176.57509,-102.69804l-0.03531,-11.96415"/>
+    <g stroke-width="1.25" stroke-miterlimit="4" display="inline" id="g41177">
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41179" d="m-250.18523,-138.50558l87.66251,-0.29936"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41181" d="m-250.18523,-126.54125l87.66251,-0.29939"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41183" d="m-235.2339,-126.79918l-0.03529,-11.96414"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41185" d="m-206.86673,-126.79918l-0.03531,-11.96414"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41187" d="m-176.82097,-126.79918l-0.03531,-11.96414"/>
+    </g>
+    <g stroke-width="1.25" stroke-miterlimit="4" display="inline" id="g41189">
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41191" d="m-250.18523,-162.45303l87.66251,-0.29939"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41193" d="m-250.18523,-150.48872l87.66251,-0.29935"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41195" d="m-235.2339,-150.74663l-0.03529,-11.96416"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41197" d="m-206.86673,-150.74664l-0.03531,-11.96414"/>
+     <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="1.25" stroke-miterlimit="4" id="path41199" d="m-176.82097,-150.74664l-0.03531,-11.96414"/>
+    </g>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41206" d="m-220.80763,-114.22268l-0.03531,-11.96415"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41208" d="m-190.4736,-114.82144l-0.03532,-11.96413"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41210" d="m-190.4736,-138.77155l-0.03532,-11.96413"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41212" d="m-220.25104,-138.17279l-0.03531,-11.96413"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41214" d="m-220.81267,-93.9394l-0.02518,-8.5224"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="0.96714" stroke-miterlimit="4" id="path41216" d="m-190.47868,-93.78971l-0.02515,-8.5224"/>
+   </g>
+  </g>
+  <g id="svg_70">
+   <defs transform="translate(-51, -159) translate(49, 126) translate(-19, -56) translate(-89, -153) translate(-0) scale(0.333333) translate(0) translate(-245.496, -449.578) scale(3.56623, 2.42704) translate(245.496, 449.578) translate(-84.8158, -254.458) scale(2.43924, 2.1445) translate(84.8158, 254.458) translate(-17.874, 71.6912) scale(0.654407, 0.833525) translate(17.874, -71.6912)">
+    <linearGradient id="svg_48">
+     <stop stop-color="#d2d2d2" offset="0" id="svg_69"/>
+     <stop stop-color="#dfdfdf" offset="1" id="svg_68"/>
+    </linearGradient>
+    <linearGradient id="svg_49">
+     <stop stop-color="#ffffff" offset="0" id="svg_67"/>
+     <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="svg_66"/>
+    </linearGradient>
+    <linearGradient id="svg_50">
+     <stop stop-color="#ffffff" offset="0" id="svg_65"/>
+     <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="svg_64"/>
+    </linearGradient>
+    <linearGradient id="svg_51">
+     <stop stop-color="#ffffff" offset="0" id="svg_63"/>
+     <stop stop-color="#ffffff" stop-opacity="0" offset="1" id="svg_62"/>
+    </linearGradient>
+    <linearGradient id="svg_52">
+     <stop stop-color="#000000" offset="0" id="svg_61"/>
+     <stop stop-color="#000000" stop-opacity="0" offset="1" id="svg_60"/>
+    </linearGradient>
+    <linearGradient id="svg_54">
+     <stop stop-color="#000000" stop-opacity="0" offset="0" id="svg_59"/>
+     <stop stop-color="#000000" offset="0.5" id="svg_58"/>
+     <stop stop-color="#000000" stop-opacity="0" offset="1" id="svg_57"/>
+    </linearGradient>
+    <linearGradient id="svg_53">
+     <stop stop-color="#000000" offset="0" id="svg_56"/>
+     <stop stop-color="#000000" stop-opacity="0" offset="1" id="svg_55"/>
+    </linearGradient>
+    <linearGradient gradientTransform="matrix(0, 0, 0, 0, 673.013, 832.635)" gradientUnits="userSpaceOnUse" xlink:href="#svg_54" id="svg_46" y2="609.50507" x2="302.85715" y1="366.64789" x1="302.85715"/>
+    <radialGradient gradientTransform="matrix(0.212168, 0, 0, 0.168607, -10.8322, -84.3879)" gradientUnits="userSpaceOnUse" xlink:href="#svg_53" id="svg_44" fy="486.64789" fx="605.71429" r="117.14286" cy="486.64789" cx="605.71429"/>
+    <radialGradient gradientTransform="matrix(-0.212168, 0, 0, 0.168607, 142.451, -84.3879)" gradientUnits="userSpaceOnUse" xlink:href="#svg_53" id="svg_42" fy="486.64789" fx="605.71429" r="117.14286" cy="486.64789" cx="605.71429"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, 0.648552, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_52" id="svg_3" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -10.1171, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_52" id="svg_5" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -20.8823, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_52" id="svg_7" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -31.6474, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_52" id="svg_9" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -42.4127, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_52" id="svg_11" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -53.178, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_52" id="svg_13" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, 6.03113, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_51" id="svg_15" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -4.73424, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_51" id="svg_17" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -15.4997, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_51" id="svg_19" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -26.2649, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_51" id="svg_21" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -37.0301, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_51" id="svg_23" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.32851, 0, 0, 4.06083, -47.7953, -164.235)" gradientUnits="userSpaceOnUse" xlink:href="#svg_51" id="svg_25" y2="30.92842" x2="16.36447" y1="39.91878" x1="16.36447"/>
+    <linearGradient gradientTransform="matrix(5.19401, 0, 0, 3.25439, -62.1517, -144.434)" gradientUnits="userSpaceOnUse" xlink:href="#svg_50" id="svg_33" y2="26.7868" x2="22.31164" y1="26.88781" x1="27.32462"/>
+    <linearGradient gradientTransform="matrix(2.73723, 0, 0, 2.25046, -5.01131, 14.5561)" gradientUnits="userSpaceOnUse" xlink:href="#svg_49" id="svg_34" y2="26.7868" x2="22.31164" y1="26.88781" x1="27.32462"/>
+    <linearGradient gradientTransform="matrix(5.39188, 0, 0, 4.10402, -62.8032, -164.781)" gradientUnits="userSpaceOnUse" xlink:href="#svg_48" id="svg_39" y2="10.01826" x2="23.23351" y1="34.46395" x1="24.34975"/>
+   </defs>
+   <g display="inline" id="svg_47"/>
+   <g display="inline" id="svg_1">
+    <g display="inline" id="svg_40">
+     <rect transform="matrix(0.0764736, 0, 0, 0.0855998, 598.734, 755.167)" opacity="0.40206" fill="url(#svg_46)" fill-rule="nonzero" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_45" y="-9704.87469" x="-8828.51387" height="478.35709" width="1339.63342"/>
+     <path opacity="0.40206" fill="url(#svg_44)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_43" d="m26.03246,-75.56734c0,0 0,40.94503 0,40.94503c10.9261,0.07712 26.414,-9.17369 26.41398,-20.47516c0,-11.30145 -12.1927,-20.46987 -26.41398,-20.46987z"/>
+     <path opacity="0.40206" fill="url(#svg_42)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_41" d="m-76.41409,-75.56734c0,0 0,40.94503 0,40.94503c-10.92609,0.07712 -26.41399,-9.17369 -26.41399,-20.47516c0,-11.30145 12.19269,-20.46987 26.41399,-20.46987z"/>
+    </g>
+    <path fill="url(#svg_39)" fill-rule="evenodd" stroke="#5e5e5e" stroke-width="2.83662605px" stroke-linecap="round" stroke-linejoin="round" id="svg_38" d="m-86.58395,-186.61554l0,137.63689l118.41745,0l0,-138.46603l-21.78651,-17.41191l-75.93377,0l-20.69717,18.24104z"/>
+    <path fill="#ffffff" fill-opacity="0.65537" fill-rule="evenodd" stroke-width="1px" id="svg_37" d="m-64.78819,-202.80554l-19.10446,20.51025l113.03487,0l-20.69653,-19.90698l-73.23389,-0.60327z"/>
+    <rect opacity="0.34857" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_36" y="-174.0912" x="-67.74484" height="16.4082" width="86.12186"/>
+    <path fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" id="svg_35" d="m-81.20135,-184.10706l0,131.02632l107.65233,0l0,-131.7831l-19.9356,-15.89066l-68.7779,0l-18.93882,16.64743z"/>
+    <rect opacity="0.52571" fill="url(#svg_33)" fill-rule="evenodd" stroke="url(#svg_34)" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_32" y="-120.76455" x="-40.83176" height="16.4082" width="59.20879"/>
+    <rect fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_31" y="-122.81557" x="-43.52311" height="16.4082" width="59.20874"/>
+    <rect opacity="0.34857" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_30" y="-149.4789" x="-67.74481" height="16.4082" width="86.12186"/>
+    <rect fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_29" y="-151.52992" x="-70.43614" height="16.4082" width="86.12188"/>
+    <rect fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_28" y="-176.14222" x="-70.4361" height="16.4082" width="86.12188"/>
+    <path fill="#d40000" fill-rule="evenodd" stroke="#979797" stroke-width="1.44773" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_27" d="m-54.28651,-112.56097a8.07483,6.15374 0 1 1-16.1497,0a8.07483,6.15374 0 1 116.1497,0z"/>
+    <path fill="#f44800" fill-rule="evenodd" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_26" d="m-62.6043,-113.85696a2.42885,1.85099 0 1 1-4.8577,0a2.42885,1.85099 0 1 14.8577,0z"/>
+    <rect fill="url(#svg_25)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_24" y="-96.15218" x="-51.59699" height="41.02052" width="5.38261"/>
+    <rect fill="url(#svg_23)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_22" y="-96.15218" x="-40.83181" height="41.02052" width="5.38261"/>
+    <rect fill="url(#svg_21)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_20" y="-96.15218" x="-30.06659" height="41.02052" width="5.38261"/>
+    <rect fill="url(#svg_19)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_18" y="-96.15218" x="-19.30137" height="41.02052" width="5.38261"/>
+    <rect fill="url(#svg_17)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_16" y="-96.15218" x="-8.53607" height="41.02052" width="5.38261"/>
+    <rect opacity="0.54286" fill="url(#svg_15)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_14" y="-96.15218" x="2.22915" height="41.02052" width="5.38261"/>
+    <rect opacity="0.16" fill="url(#svg_13)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_12" y="-96.15218" x="-56.97967" height="41.02052" width="5.38261"/>
+    <rect opacity="0.29143" fill="url(#svg_11)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_10" y="-96.15218" x="-46.21438" height="41.02052" width="5.38261"/>
+    <rect opacity="0.29143" fill="url(#svg_9)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_8" y="-96.15218" x="-35.44914" height="41.02052" width="5.38261"/>
+    <rect opacity="0.29143" fill="url(#svg_7)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_6" y="-96.15218" x="-24.68391" height="41.02052" width="5.38261"/>
+    <rect opacity="0.29143" fill="url(#svg_5)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_4" y="-96.15218" x="-13.91875" height="41.02052" width="5.38261"/>
+    <rect opacity="0.22857" fill="url(#svg_3)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" id="svg_2" y="-96.15218" x="-3.15353" height="41.02052" width="5.38261"/>
+   </g>
+  </g>
+  <g id="svg_71">
+   <g id="svg_113" display="inline"/>
+   <g id="svg_114" display="inline">
+    <g id="svg_115" display="inline">
+     <rect id="svg_116" transform="matrix(0.0764736, 0, 0, 0.0855998, 598.734, 755.167)" opacity="0.40206" fill="url(#svg_46)" fill-rule="nonzero" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" y="-9377.77056" x="-8200.84566" height="478.35709" width="1339.63326"/>
+     <path id="svg_117" opacity="0.40206" fill="url(#svg_44)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m74.03246,-47.56734c0,0 0,40.94503 0,40.94503c10.9261,0.07712 26.414,-9.17369 26.41398,-20.47516c0,-11.30145 -12.1927,-20.46987 -26.41398,-20.46987z"/>
+     <path id="svg_118" opacity="0.40206" fill="url(#svg_42)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m-28.41409,-47.56734c0,0 0,40.94503 0,40.94503c-10.92609,0.07712 -26.41399,-9.17369 -26.41399,-20.47516c0,-11.30145 12.19269,-20.46987 26.41399,-20.46987z"/>
+    </g>
+    <path id="svg_119" fill="url(#svg_39)" fill-rule="evenodd" stroke="#5e5e5e" stroke-width="2.83662605px" stroke-linecap="round" stroke-linejoin="round" d="m-38.58395,-158.61554l0,137.63689l118.41745,0l0,-138.46603l-21.78651,-17.41191l-75.93377,0l-20.69717,18.24104z"/>
+    <path id="svg_120" fill="#ffffff" fill-opacity="0.65537" fill-rule="evenodd" stroke-width="1px" d="m-16.78819,-174.80554l-19.10446,20.51025l113.03487,0l-20.69653,-19.90698l-73.23389,-0.60327z"/>
+    <rect id="svg_121" opacity="0.34857" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-146.0912" x="-19.74484" height="16.4082" width="86.12186"/>
+    <path id="svg_122" fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" d="m-33.20135,-156.10706l0,131.02632l107.65233,0l0,-131.7831l-19.9356,-15.89066l-68.7779,0l-18.93882,16.64743z"/>
+    <rect id="svg_123" opacity="0.52571" fill="url(#svg_33)" fill-rule="evenodd" stroke="url(#svg_34)" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-92.76455" x="7.16824" height="16.4082" width="59.20879"/>
+    <rect id="svg_124" fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-94.81557" x="4.47689" height="16.4082" width="59.20874"/>
+    <rect id="svg_125" opacity="0.34857" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-121.4789" x="-19.74481" height="16.4082" width="86.12186"/>
+    <rect id="svg_126" fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-123.52992" x="-22.43614" height="16.4082" width="86.12188"/>
+    <rect id="svg_127" fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-148.14222" x="-22.4361" height="16.4082" width="86.12188"/>
+    <path id="svg_128" fill="#d40000" fill-rule="evenodd" stroke="#979797" stroke-width="1.44773" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m-6.28651,-84.56097a8.07483,6.15374 0 1 1-16.1497,0a8.07483,6.15374 0 1 116.1497,0z"/>
+    <path id="svg_129" fill="#f44800" fill-rule="evenodd" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m-14.6043,-85.85696a2.42885,1.85099 0 1 1-4.8577,0a2.42885,1.85099 0 1 14.8577,0z"/>
+    <rect id="svg_130" fill="url(#svg_25)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="-3.59699" height="41.02052" width="5.38261"/>
+    <rect id="svg_131" fill="url(#svg_23)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="7.16819" height="41.02052" width="5.38261"/>
+    <rect id="svg_132" fill="url(#svg_21)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="17.93341" height="41.02052" width="5.38261"/>
+    <rect id="svg_133" fill="url(#svg_19)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="28.69863" height="41.02052" width="5.38261"/>
+    <rect id="svg_134" fill="url(#svg_17)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="39.46393" height="41.02052" width="5.38261"/>
+    <rect id="svg_135" opacity="0.54286" fill="url(#svg_15)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="50.22915" height="41.02052" width="5.38261"/>
+    <rect id="svg_136" opacity="0.16" fill="url(#svg_13)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="-8.97967" height="41.02052" width="5.38261"/>
+    <rect id="svg_137" opacity="0.29143" fill="url(#svg_11)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="1.78562" height="41.02052" width="5.38261"/>
+    <rect id="svg_138" opacity="0.29143" fill="url(#svg_9)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="12.55086" height="41.02052" width="5.38261"/>
+    <rect id="svg_139" opacity="0.29143" fill="url(#svg_7)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="23.31609" height="41.02052" width="5.38261"/>
+    <rect id="svg_140" opacity="0.29143" fill="url(#svg_5)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="34.08125" height="41.02052" width="5.38261"/>
+    <rect id="svg_141" opacity="0.22857" fill="url(#svg_3)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-68.15218" x="44.84647" height="41.02052" width="5.38261"/>
+   </g>
+  </g>
+  <g id="svg_142">
+   <g id="svg_184" display="inline"/>
+   <g id="svg_185" display="inline">
+    <g id="svg_186" display="inline">
+     <rect id="svg_187" transform="matrix(0.0764736, 0, 0, 0.0855998, 598.734, 755.167)" opacity="0.40206" fill="url(#svg_46)" fill-rule="nonzero" stroke-linecap="round" stroke-miterlimit="4" stroke-dashoffset="0" y="-9085.71323" x="-7638.55957" height="478.35709" width="1339.6331"/>
+     <path id="svg_188" opacity="0.40206" fill="url(#svg_44)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m117.03246,-22.56734c0,0 0,40.94503 0,40.94503c10.9261,0.07712 26.41401,-9.17369 26.41398,-20.47516c0,-11.30145 -12.1927,-20.46987 -26.41398,-20.46987z"/>
+     <path id="svg_189" opacity="0.40206" fill="url(#svg_42)" fill-rule="nonzero" stroke-linecap="round" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m14.58591,-22.56734c0,0 0,40.94503 0,40.94503c-10.92609,0.07712 -26.41399,-9.17369 -26.41399,-20.47516c0,-11.30145 12.19269,-20.46987 26.41399,-20.46987z"/>
+    </g>
+    <path id="svg_190" fill="url(#svg_39)" fill-rule="evenodd" stroke="#5e5e5e" stroke-width="2.83662605px" stroke-linecap="round" stroke-linejoin="round" d="m4.41605,-133.61554l0,137.63689l118.41745,0l0,-138.46603l-21.78651,-17.41191l-75.93377,0l-20.69717,18.24104z"/>
+    <path id="svg_191" fill="#ffffff" fill-opacity="0.65537" fill-rule="evenodd" stroke-width="1px" d="m26.21181,-149.80554l-19.10446,20.51025l113.03487,0l-20.69653,-19.90698l-73.23389,-0.60327z"/>
+    <rect id="svg_192" opacity="0.34857" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-121.0912" x="23.25516" height="16.4082" width="86.12186"/>
+    <path id="svg_193" fill="none" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" d="m9.79865,-131.10706l0,131.02632l107.65233,0l0,-131.7831l-19.93561,-15.89066l-68.7779,0l-18.93882,16.64743z"/>
+    <rect id="svg_194" opacity="0.52571" fill="url(#svg_33)" fill-rule="evenodd" stroke="url(#svg_34)" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-67.76455" x="50.16824" height="16.4082" width="59.20879"/>
+    <rect id="svg_195" fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-69.81557" x="47.47689" height="16.4082" width="59.20874"/>
+    <rect id="svg_196" opacity="0.34857" fill="#ffffff" fill-rule="evenodd" stroke="#ffffff" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-96.4789" x="23.25519" height="16.4082" width="86.12186"/>
+    <rect id="svg_197" fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-98.52992" x="20.56386" height="16.4082" width="86.12188"/>
+    <rect id="svg_198" fill="#c8c8c8" fill-rule="evenodd" stroke="#acacac" stroke-width="2.83663" stroke-miterlimit="4" stroke-dashoffset="0" y="-123.14222" x="20.5639" height="16.4082" width="86.12188"/>
+    <path id="svg_199" fill="#d40000" fill-rule="evenodd" stroke="#979797" stroke-width="1.44773" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m36.71349,-59.56097a8.07483,6.15374 0 1 1-16.1497,0a8.07483,6.15374 0 1 116.1497,0z"/>
+    <path id="svg_200" fill="#f44800" fill-rule="evenodd" marker-start="none" marker-mid="none" marker-end="none" stroke-miterlimit="4" stroke-dashoffset="0" d="m28.3957,-60.85696a2.42885,1.85099 0 1 1-4.8577,0a2.42885,1.85099 0 1 14.8577,0z"/>
+    <rect id="svg_201" fill="url(#svg_25)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="39.40301" height="41.02052" width="5.38261"/>
+    <rect id="svg_202" fill="url(#svg_23)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="50.16819" height="41.02052" width="5.38261"/>
+    <rect id="svg_203" fill="url(#svg_21)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="60.93341" height="41.02052" width="5.38261"/>
+    <rect id="svg_204" fill="url(#svg_19)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="71.69863" height="41.02052" width="5.38261"/>
+    <rect id="svg_205" fill="url(#svg_17)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="82.46393" height="41.02052" width="5.38261"/>
+    <rect id="svg_206" opacity="0.54286" fill="url(#svg_15)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="93.22915" height="41.02052" width="5.38261"/>
+    <rect id="svg_207" opacity="0.16" fill="url(#svg_13)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="34.02033" height="41.02052" width="5.38261"/>
+    <rect id="svg_208" opacity="0.29143" fill="url(#svg_11)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="44.78562" height="41.02052" width="5.38261"/>
+    <rect id="svg_209" opacity="0.29143" fill="url(#svg_9)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="55.55086" height="41.02052" width="5.38261"/>
+    <rect id="svg_210" opacity="0.29143" fill="url(#svg_7)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="66.31609" height="41.02052" width="5.38261"/>
+    <rect id="svg_211" opacity="0.29143" fill="url(#svg_5)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="77.08125" height="41.02052" width="5.38261"/>
+    <rect id="svg_212" opacity="0.22857" fill="url(#svg_3)" fill-rule="evenodd" stroke-miterlimit="4" stroke-dashoffset="0" y="-43.15218" x="87.84647" height="41.02052" width="5.38261"/>
+   </g>
+  </g>
+ </g>
+</svg>

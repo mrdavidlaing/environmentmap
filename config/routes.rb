@@ -1,5 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
   map.resources :maps
+  map.connect 'maps/:id/svgdata.svg', :controller => 'maps', :action => 'show_svgdata'
 
   # The priority is based upon order of creation: first created -> highest priority.
 

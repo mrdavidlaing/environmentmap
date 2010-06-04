@@ -3,7 +3,7 @@
   <%=h @map.name %>
 
 <div>
-  <%= svg_tag "/maps/#{@map.id}/svgdata"%>
+  <%= svg_tag "/maps/#{@map.id}/svgdata", :width=>@map.width, :height=>@map.height %>
 
 </div>
 </p>

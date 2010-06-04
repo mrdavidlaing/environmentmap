@@ -3,22 +3,8 @@
 <% form_for(@map) do |f| %>
   <%= f.error_messages %>
 
-  <p>
-    <%= f.label :name %><br />
-    <%= f.text_field :name %>
-  </p>
-  <p>
-    <%= f.label :svgdata%><br />
-    <%= f.text_area :svgdata%>
-  </p>
-  <p>
-    <%= f.label :width%><br />
-    <%= f.text_field :width%>
-  </p>
-  <p>
-    <%= f.label :height%><br />
-    <%= f.text_field :height%>
-  </p>
+  <%= render :partial => "form", :locals => {:f => f}%>
+
   <p>
     <%= f.submit 'Update' %>
   </p>

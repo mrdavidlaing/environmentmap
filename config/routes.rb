@@ -1,4 +1,6 @@
 ActionController::Routing::Routes.draw do |map|
+  map.resources :services
+
   map.resources :maps
   map.connect 'maps/:id/svgdata.svg', :controller => 'maps', :action => 'show_svgdata'
 

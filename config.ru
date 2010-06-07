@@ -3,7 +3,7 @@ AppEngine::Rack.configure_app(
     :application => 'environmentmap',
     :precompilation_enabled => true,
     :sessions_enabled => true,
-    :version => "4")
+    :version => "5")
 
 AppEngine::Rack.app.resource_files.exclude :rails_excludes
 ENV['RAILS_ENV'] = AppEngine::Rack.environment

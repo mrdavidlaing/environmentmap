@@ -24,7 +24,7 @@ class MapsController < ApplicationController
   # GET /maps/1/svgdata
   def show_svgdata
     @map = Map.find(params[:id])
-    render :xml => @map.svgdata
+    render :xml => @map.svgdata_as_clickable
   end
 
   # GET /maps/new

@@ -5,6 +5,17 @@
 <head>
   <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
   <title>Maps: <%= controller.action_name %></title>
+  
+  <link type="text/css" href="http://jqueryui.com/latest/themes/cupertino/jquery.ui.all.css" rel="stylesheet" />
+  <script type="text/javascript" src="http://www.google.com/jsapi"></script>
+  <script type="text/javascript">
+      google.load("jquery", "1.4.2");
+      google.load("jqueryui", "1.8");
+  </script>
+
+  <script type="text/javascript" src="/javascripts/codemirror/js/codemirror.js"></script>
+  <link href="/javascripts/codemirror/css/docs.css" type="text/css" rel="stylesheet">
+
   <%= svg_include_tag  %>
   <%= stylesheet_link_tag 'scaffold' %>
 </head>
@@ -14,5 +25,32 @@
 
 <%= yield %>
 
+<div id="ajaxDialog"></div>
+<script type="text/javascript">
+  var service_id = 0;
+  
+  function show_detail(in_service_id)
+  {
+     service_id = in_service_id;
+     $("#ajaxDialog").dialog("open");
+  }
+
+  $(document).ready(function(){
+    var doOk = function() {
+      $("#ajaxDialog").dialog("close");
+    }
+    var dialogOpts = {
+      title: "Service details",
+      modal: false,
+      buttons: {
+        "Done": doOk
+      },
+      autoOpen: false,
+      open: function() {
+        $("#ajaxDialog").load("/services/"+service_id); }
+    };
+    $("#ajaxDialog").dialog(dialogOpts);
+  });
+</script>
 </body>
 </html>

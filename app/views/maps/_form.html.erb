@@ -9,6 +9,18 @@
   <%= f.label :svgdata%><br />
   <%= f.text_area :svgdata%>
 </p>
+<script type="text/javascript">
+  $(document).ready(function(){
+  var editor = CodeMirror.fromTextArea('map_svgdata', {
+    height: "350px",
+    parserfile: "parsexml.js",
+    stylesheet: "/javascripts/codemirror/css/xmlcolors.css",
+    path: "/javascripts/codemirror/js/",
+    continuousScanning: 500,
+    lineNumbers: true
+    });
+  });
+</script>
 <p>
   <%= f.label :width%><br />
   <%= f.text_field :width%>
@@ -17,3 +29,5 @@
   <%= f.label :height%><br />
   <%= f.text_field :height%>
 </p>
+
+

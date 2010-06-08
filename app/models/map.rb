@@ -14,7 +14,31 @@ class Map
   has n, :services
 
   def svgdata_as_clickable
+    javascript_fn = REXML::Document.new(<<EOF)
+<script type="text/ecmascript"><![CDATA[
+
+    var SVGDocument = null;
+    var SVGRoot = null;
+
+    function Init(evt)
+    {
+       SVGDocument = evt.target.ownerDocument;
+       SVGRoot = SVGDocument.documentElement;
+       SVGRoot.currentScale = 0.5;
+    };
+
+    function show_details(service_id)
+    {
+       top.window.show_detail(service_id);
+    }
+
+ ]]></script>
+EOF
     doc = REXML::Document.new(self.svgdata)
+
+    doc.elements['svg'].attributes['onload'] = "Init(evt)"
+    doc.root.add(javascript_fn)
+
     doc.elements.each("//[starts-with(@id,'service')]") do |clickable_element|
       service_id_parts = clickable_element.attributes["id"].split('_')
       unless service_id_parts.length < 2

@@ -2,11 +2,14 @@
   <b>Name:</b>
   <%=h @map.name %>
 
-<div>
-  <%= svg_tag "/maps/#{@map.id}/svgdata", :width=>@map.width, :height=>@map.height %>
-
-</div>
 </p>
+
+<div>
+  <%= render :partial => "svg_zoom_controls", :locals => {:svg_doc_id => "svg_map"}%>
+  <%= svg_tag "/maps/#{@map.id}/svgdata", :width=>@map.width, :height=>@map.height, :id=>"svg_map" %>
+</div>
+
+
 
 <%= link_to 'Edit', edit_map_path(@map) %> |
 <%= link_to 'Back', maps_path %>

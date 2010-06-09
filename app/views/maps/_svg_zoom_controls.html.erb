@@ -1,0 +1,21 @@
+<script type="text/javascript">
+  function zoom_in()
+  {
+    getSVGRoot().currentScale += 0.2;
+  }
+  function zoom_out()
+  {
+     getSVGRoot().currentScale -= 0.2;
+  }
+  function getSVGRoot()
+  {
+    var svgRoot = document.getElementById('<%=  svg_doc_id %>');
+
+    return svgRoot.contentDocument.documentElement;
+  }
+
+</script>
+<div>
+  <button id="zoom_in" onclick="zoom_in();">+</button>
+  <button id="zoom_in" onclick="zoom_out();">-</button>
+</div>

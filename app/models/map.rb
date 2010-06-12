@@ -43,6 +43,7 @@ EOF
       service_id_parts = clickable_element.attributes["id"].split('_')
       unless service_id_parts.length < 2
         clickable_element.attributes["onclick"] = "top.window.show_detail("+service_id_parts[1]+")"
+        clickable_element.attributes["cursor"] = "pointer"
       end
     end
     doc

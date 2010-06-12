@@ -3,6 +3,7 @@ ActionController::Routing::Routes.draw do |map|
 
   map.resources :maps
   map.connect 'maps/:id/svgdata.svg', :controller => 'maps', :action => 'show_svgdata'
+  map.connect 'maps/:id/visual_editor', :controller => 'maps', :action => 'visual_editor'
 
   # The priority is based upon order of creation: first created -> highest priority.
 

@@ -1,5 +1,11 @@
 <h1>Editing map</h1>
 
+ <div id="associated_services" style="border:1px solid black; float:right; width:250px; height:100%" >
+    <h2>Associated services</h2>
+    <div>list here</div>
+    <div>add here</div>
+  </div>
+
 <% form_for(@map) do |f| %>
   <%= f.error_messages %>
 
@@ -9,6 +15,8 @@
     <%= f.submit 'Update' %>
   </p>
 <% end %>
+
+ 
 
 <%= link_to 'Show', @map %> |
 <%= link_to 'Back', maps_path %>

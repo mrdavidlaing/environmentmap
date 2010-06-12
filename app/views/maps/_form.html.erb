@@ -5,22 +5,44 @@
 <p>
   <%= f.collection_select :id, Service.all, :id, :name, {}, :multiple=>true %>
 </p>
-<p>
-  <%= f.label :svgdata%><br />
-  <%= f.text_area :svgdata%>
-</p>
+
+
 <script type="text/javascript">
-  $(document).ready(function(){
-  var editor = CodeMirror.fromTextArea('map_svgdata', {
-    height: "350px",
-    parserfile: "parsexml.js",
-    stylesheet: "/javascripts/codemirror/css/xmlcolors.css",
-    path: "/javascripts/codemirror/js/",
-    continuousScanning: 500,
-    lineNumbers: true
-    });
-  });
+$(function() {
+        $("#tabs").tabs({
+            ajaxOptions: {
+              error: function(xhr, status, index, anchor) {
+                  $(anchor.hash).html("Couldn't load this tab.");
+              }
+            }
+        });
+});
 </script>
+
+<div id="tabs">
+  <%= f.label :svgdata%><br />
+  <ul>
+    <li><a href="#code_editor">Code</a></li>
+    <li><a href="/maps/<%=@map.id%>/visual_editor">Visual</a></li>
+  </ul>
+
+  <div id="code_editor">
+    <%= f.text_area :svgdata%>
+    <script type="text/javascript">
+      $(document).ready(function(){
+      var editor = CodeMirror.fromTextArea('map_svgdata', {
+        height: "350px",
+        parserfile: "parsexml.js",
+        stylesheet: "/javascripts/codemirror/css/xmlcolors.css",
+        path: "/javascripts/codemirror/js/",
+        continuousScanning: 500,
+        lineNumbers: true
+        });
+      });
+    </script>
+  </div>
+</div>
+
 <p>
   <%= f.label :width%><br />
   <%= f.text_field :width%>

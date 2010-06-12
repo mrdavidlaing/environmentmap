@@ -42,6 +42,11 @@ class MapsController < ApplicationController
   def edit
     @map = Map.find(params[:id])
   end
+  
+  # GET /maps/1/code_editor
+  def visual_editor
+    @map = Map.find(params[:id])
+  end
 
   # POST /maps
   # POST /maps.xml

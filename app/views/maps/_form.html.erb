@@ -2,10 +2,17 @@
   <%= f.label :name %><br />
   <%= f.text_field :name %>
 </p>
-<p>
-  <%= f.collection_select :id, Service.all, :id, :name, {}, :multiple=>true %>
-</p>
 
+<div id="associated_services" style="border:1px solid black;" >
+  <%= f.label :services, "Service" %><br />
+  <% f.fields_for :services do |builder| %>
+    <p>
+      <%= builder.text_field :name %>
+      <%= builder.check_box :_destroy %>
+      <%= builder.label :_destroy, "Remove" %>
+    </p>
+  <% end %>
+</div>
 
 <script type="text/javascript">
 $(function() {

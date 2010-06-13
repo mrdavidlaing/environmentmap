@@ -1,4 +1,7 @@
+# TODO: delete related services when map deleted
+
 require 'rexml/document'
+require "dm-accepts_nested_attributes"
 
 class Map
   include DataMapper::Resource
@@ -12,9 +15,10 @@ class Map
   timestamps :at
   
   has n, :services
+  accepts_nested_attributes_for :services, :reject_if => lambda { |a| a[:name].blank? }
 
   def svgdata_as_clickable
-    javascript_fn = REXML::Document.new(<<EOF)
+    javascript_fn = REXML::Document.new(<<EOF
 <script type="text/ecmascript"><![CDATA[
 
     var SVGDocument = null;
@@ -34,6 +38,7 @@ class Map
 
  ]]></script>
 EOF
+)
     doc = REXML::Document.new(self.svgdata)
 
     doc.elements['svg'].attributes['onload'] = "Init(evt)"

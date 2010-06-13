@@ -31,6 +31,7 @@ class MapsController < ApplicationController
   # GET /maps/new.xml
   def new
     @map = Map.new
+    3.times { @map.services.build }
 
     respond_to do |format|
       format.html # new.html.erb

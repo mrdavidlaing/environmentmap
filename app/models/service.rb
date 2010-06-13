@@ -1,10 +1,12 @@
 class Service
   include DataMapper::Resource
 
-  property :id,   Serial
-  property :name, String,      :required => true, :length => 100
-  property :description, Text, :required => false
-  property :url, String,    :required => false
+  attr_accessor :_destroy
+
+  property :id,          Serial
+  property :name,        String,  :required => true, :length => 100
+  property :description, Text,    :required => false
+  property :url,         String,  :required => false
   
   timestamps :at
   

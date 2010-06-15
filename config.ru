@@ -13,9 +13,19 @@ deferred_dispatcher = AppEngine::Rack::DeferredDispatcher.new(
     :dispatch => 'ActionController::Dispatcher')
 
 map '/maps' do
+  run deferred_dispatcher
+end
+
+map '/services' do
+  run deferred_dispatcher
+end
+
+map '/something_authenticated' do
   use AppEngine::Rack::LoginRequired
   run deferred_dispatcher
 end
+
+
 
 map '/' do
   run deferred_dispatcher

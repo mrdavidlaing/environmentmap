@@ -1,8 +1,8 @@
 <web-app xmlns='http://java.sun.com/xml/ns/javaee' version='2.5'>
   <security-constraint>
     <web-resource-collection>
-      <url-pattern>/maps</url-pattern>
-      <url-pattern>/maps/*</url-pattern>
+      <url-pattern>/something_authenticated</url-pattern>
+      <url-pattern>/something_authenticated/*</url-pattern>
     </web-resource-collection>
     <auth-constraint>
       <role-name>*</role-name>

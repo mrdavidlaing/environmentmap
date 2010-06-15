@@ -28,7 +28,6 @@ class Map
     {
        SVGDocument = evt.target.ownerDocument;
        SVGRoot = SVGDocument.documentElement;
-       SVGRoot.currentScale = 0.5;
     };
 
     function show_details(service_id)
